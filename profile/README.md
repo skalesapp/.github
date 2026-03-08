@@ -2,7 +2,7 @@
 
 # 🦎 Skales
 
-**Open Source Local AI Agent for Windows & macOS**
+**Local AI Agent (Source Available) for Windows & macOS**
 
 The simplest autonomous AI agent in existence.
 Download. Install. Done.
