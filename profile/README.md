@@ -2,7 +2,9 @@
 
 # 🦎 Skales
 
-**Local AI Agent (Source Available) for Windows & macOS**
+**Local AI Agent (Source Available) for Windows, macOS & Linux**
+
+![Team Skales](https://skales.app/team_s.png)
 
 The simplest autonomous AI agent in existence.
 Download. Install. Done.
@@ -14,8 +16,8 @@ Download. Install. Done.
 
 ---
 
-**11+ LLM Providers** · **ReAct Autopilot** · **🦁 Lio AI Code Builder** · **Skill AI** · **100% Local & Private**
+**13+ LLM Providers** · **📅 Planner AI** · **🦁 Lio AI + FTP Deploy** · **🧠 Proactive Buddy** · **🌍 7 Languages** · **🐧 Linux Beta**
 
-*Not an agent. A buddy.* 🦎
+*Not just an agent. Your desktop companion.* 🦎💧🦫
 
 </div>
