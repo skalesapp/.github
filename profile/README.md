@@ -2,7 +2,7 @@
 
 # 🦎 Skales
 
-**Local-first AI Desktop & Mobile Agent for Windows, macOS, Linux & Android**
+**Local-first AI Desktop & Mobile Agent for Windows, macOS, Linux, Android & iOS**
 
 ![Team Skales](https://skales.app/team_s.png)
 
@@ -41,9 +41,11 @@ Built from **6 to 60+** — usable by a kid, approved by a grandmother. Mainstre
 | Repo | What | License |
 |------|------|---------|
 | [**skales**](https://github.com/skalesapp/skales) | Desktop Agent (Windows, macOS, Linux) | BSL 1.1 |
-| [**skales mobile**](https://play.google.com/store/apps/details?id=app.skales.mobile) | Android (live) + iOS (in review) | BSL 1.1 |
+| [**skales mobile**](https://play.google.com/store/apps/details?id=app.skales.mobile) | [Android](https://play.google.com/store/apps/details?id=app.skales.mobile) + [iOS](https://apps.apple.com/us/app/skales/id6763328966) — both live | BSL 1.1 |
 | [**devkit**](https://github.com/skalesapp/devkit) | CLI, developer docs, examples | MIT |
 | [**wordpress**](https://github.com/skalesapp/wordpress) | WordPress Connector Plugin | MIT |
+| [**llm-profiles**](https://github.com/gonemedia/llm-profiles) | Per-model tuning profiles for reliable tool calling | MIT |
+| [**api-connectors**](https://github.com/gonemedia/api-connectors) | Keyless REST connector templates | MIT |
 
 ---
 
@@ -67,7 +69,7 @@ Built from **6 to 60+** — usable by a kid, approved by a grandmother. Mainstre
 
 🌍 **15+ AI Providers** — Cloud (OpenAI, Anthropic, Google, Groq, DeepSeek, xAI, ...) and local (Ollama, LM Studio)
 
-🌐 **12 Languages** — EN, DE, ES, FR, IT, PT, KO, ZH, JA, VI, HR, TR
+🌐 **12 Languages** — EN, DE, ES, FR, RU, PT, KO, ZH, JA, VI, HR, TR
 
 ---
 
@@ -77,7 +79,7 @@ Built from **6 to 60+** — usable by a kid, approved by a grandmother. Mainstre
 
 Personal, educational, and internal business use = **free forever**.
 
-SaaS, hosting, bundling, or resale = [commercial license](https://github.com/skalesapp/skales/blob/main/commercial-license.md).
+SaaS, hosting, bundling, or resale = [commercial license](https://github.com/skalesapp/skales/blob/main/COMMERCIAL-LICENSE.md).
 
 ---
 
