@@ -73,6 +73,14 @@ Built from **6 to 60+** — usable by a kid, approved by a grandmother. Mainstre
 
 ---
 
+## Iris
+
+The voice inside Skales has a name and a face. **Iris** listens, works, and speaks. She is part of Skales today; Iris Orbit becomes its own product in Q4 2026.
+
+[irisorbit.com](https://irisorbit.com)
+
+---
+
 ## 📜 License
 
 **BSL 1.1** source-available today, **Apache 2.0** on 2030-04-19.
