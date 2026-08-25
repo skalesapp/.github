@@ -59,6 +59,7 @@ surface, power-user depth underneath.
 | [**skales mobile**](https://play.google.com/store/apps/details?id=app.skales.mobile) | [Android](https://play.google.com/store/apps/details?id=app.skales.mobile) + [iOS](https://apps.apple.com/us/app/skales/id6763328966) — both live | BSL 1.1 |
 | [**devkit**](https://github.com/skalesapp/devkit) | CLI, developer docs, examples | MIT |
 | [**wordpress**](https://github.com/skalesapp/wordpress) | WordPress Connector Plugin | MIT |
+| [**plugins**](https://github.com/skalesapp/plugins) | Community plugin registry | MIT |
 | [**llm-profiles**](https://github.com/gonemedia/llm-profiles) | Per-model tuning profiles for reliable tool calling | MIT |
 | [**api-connectors**](https://github.com/gonemedia/api-connectors) | Keyless REST connector templates | MIT |
 
