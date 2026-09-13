@@ -130,13 +130,24 @@ Iris Orbit becomes its own product later: [irisorbit.com](https://irisorbit.com)
 
 ---
 
-## 📜 License
+## 📜 License and brand
 
 **BSL 1.1** source-available today, **Apache 2.0** on 2030-04-19.
 
 Personal, educational, and internal business use = **free forever**.
 
 SaaS, hosting, bundling, or resale = [commercial license](https://github.com/skalesapp/skales/blob/main/COMMERCIAL-LICENSE.md).
+
+A source license is not a brand license. The name **Skales**, the logo and the
+icon stay with their author: you may pass on the **unmodified original builds**
+as published, but a modified or rebranded build must not carry the name or the
+logo, and a hosted offering needs written permission first. The terms are short
+and say exactly what needs asking:
+
+📄 [LICENSE](https://github.com/skalesapp/skales/blob/main/LICENSE) · ™ [TRADEMARK.md](https://github.com/skalesapp/skales/blob/main/TRADEMARK.md) · ✍️ [request@skales.app](mailto:request@skales.app)
+
+Published builds are signed and identify themselves. A build that is not in our
+own release record is not one of ours, whatever it is called.
 
 ---
 
