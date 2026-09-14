@@ -15,7 +15,7 @@ of a sentence (GitHub renders every break hard).
 
 **Licence and brand.** Skales is proprietary software under the
 [Skales End User Licence Agreement](https://github.com/skalesapp/skales/blob/main/LICENSE),
-version 1.1 of 14 September 2026; the current version is always at https://skales.app/licence.
+version 1.2 of 14 September 2026; the current version is always at https://skales.app/licence.
 It is not open source and it is not source-available. Private individuals, students, teachers and non-commercial educational institutions use it free of charge. Companies, businesses and public bodies need a written commercial licence, and SaaS, hosting, bundling, white-labelling and resale need a written contract: request@skales.app. Run Skales as it is published: do not bypass its integrity, attestation or authentication mechanisms, do not operate it as a component or backend of another program, do not resell or broker access to it, and do not claim to be a partner or reseller of Skales.
 
 The name Skales, the logo and the icon are trademarks and are not licensed with the software. You may refer to Skales by name to describe, review or link to the unmodified original software; a modified or rebranded copy must not carry the name or the logo. See

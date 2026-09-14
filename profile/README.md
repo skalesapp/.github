@@ -133,7 +133,7 @@ Iris Orbit becomes its own product later: [irisorbit.com](https://irisorbit.com)
 ## 📜 Licence and brand
 
 Skales is **proprietary software**. It is licensed, not sold. It is not open
-source, it is not source-available, and it will not become either.
+source and it is not source-available. No source code is provided or promised.
 
 Private individuals, students, teachers and non-commercial educational
 institutions use Skales **free of charge**.
@@ -143,11 +143,13 @@ SaaS, hosting, bundling, white-labelling and resale need a written contract.
 Ask at [request@skales.app](mailto:request@skales.app).
 
 Run Skales as it is published: no modified copies, no bypassing its integrity,
-attestation or authentication mechanisms, no operating it as a component,
-backend or agent engine of another program, no reselling or brokering access to
+attestation or authentication mechanisms, no operating it commercially as a
+component, backend or agent engine of another product, no reselling or brokering access to
 it, and no claiming to be a partner, reseller or co-developer of Skales. The
-current licence is **version 1.1 of 14 September 2026**, published at
-[skales.app/licence](https://skales.app/licence/).
+current licence is **version 1.2 of 14 September 2026**, published at
+[skales.app/licence](https://skales.app/licence/), in English and German. Your statutory
+rights, including a necessary backup copy and decompilation for interoperability,
+are untouched.
 
 The name **Skales**, the logo and the icon stay with their author. You may refer
 to Skales by name to describe, review or link to the unmodified original
