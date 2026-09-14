@@ -142,6 +142,13 @@ Companies, businesses and public bodies need a written commercial licence;
 SaaS, hosting, bundling, white-labelling and resale need a written contract.
 Ask at [request@skales.app](mailto:request@skales.app).
 
+Run Skales as it is published: no modified copies, no bypassing its integrity,
+attestation or authentication mechanisms, no operating it as a component,
+backend or agent engine of another program, no reselling or brokering access to
+it, and no claiming to be a partner, reseller or co-developer of Skales. The
+current licence is **version 1.1 of 14 September 2026**, published at
+[skales.app/licence](https://skales.app/licence/).
+
 The name **Skales**, the logo and the icon stay with their author. You may refer
 to Skales by name to describe, review or link to the unmodified original
 software; a modified or rebranded copy must not carry the name or the logo.

@@ -1,6 +1,7 @@
 Skales End User Licence Agreement
 
-Version 1.0, 14 September 2026
+Version 1.1, 14 September 2026
+The current version of this agreement is published at https://skales.app/licence. The English text governs.
 Licensor: Mario Simic, Vienna, Austria ("Skales", "we")
 Software: Skales Desktop, Skales Mobile, Skales Code, Skales Relay client components and every update we provide (the "Software")
 
@@ -18,6 +19,10 @@ The Software is proprietary. It is licensed, not sold. It is not open source, it
 3.3 You may not reverse engineer, decompile, disassemble, extract, or otherwise attempt to derive the source code, models, prompts, or internal structure of the Software, except to the extent a mandatory law expressly permits it despite this clause.
 3.4 You may not remove, hide, or alter any licence, trademark, attribution, or origin marking in the Software or its packages.
 3.5 You may not use the Software to build a competing product, or use any part of it, including its texts, tool definitions, prompts, and assets, in another product.
+3.6 You must install and run the Software as published. You may not modify the Software, remove or bypass its integrity, attestation, licence, or authentication mechanisms, or run a modified copy.
+3.7 You may not operate the Software as a component, backend, agent engine, or library of another program: no wrapper around its local server, no launching of its command-line interface from another tool, no third-party client against its relay or online services, and no bulk collection of its output, including for training models. Using the Software's own tools on your own device remains free.
+3.8 You may not bundle the Software, resell or broker access to it, or submit it to any app store or distribution channel. On mobile devices you may not re-sign, side-load, or redistribute the application package; managed distribution within an organisation requires a commercial licence.
+3.9 You may not present yourself as a partner, reseller, certified provider, co-developer, or spokesperson of Skales or Mario Simic, claim that Skales is part of, based on, or endorses another product, or use the name, likeness, or statements of Mario Simic in advertising. You may state factually that your setup runs or installs Skales.
 
 4. Your data and your keys
 The Software runs on your own devices. Provider keys, conversations, files, and memory stay on your devices unless you connect a service yourself. Skales IQ, Skales Relay, and other optional online services have their own terms, shown before you enable them.
@@ -29,7 +34,7 @@ The Software runs on your own devices. Provider keys, conversations, files, and 
 The Software contains open-source components under their own licences, listed in THIRD-PARTY-NOTICES.md. Those licences apply to those components only and do not extend to the Software as a whole.
 
 7. Updates, term, and termination
-We may provide updates under this agreement. The licence lasts until terminated. It terminates automatically if you breach it; on termination you must stop using the Software and delete all copies. Sections 3, 5, 8, and 9 survive termination.
+We may provide updates under this agreement. The licence lasts until terminated. It terminates automatically if you breach it; on termination you must stop using the Software and delete all copies. Skales may name a terminated licence and the breach publicly. Sections 3, 5, 8, and 9 survive termination.
 
 8. Warranty and liability
 The Software is provided "as is". To the maximum extent permitted by law, Skales disclaims all warranties and is not liable for any indirect, incidental, or consequential damages, loss of data, or loss of profit arising from the use of the Software. Mandatory consumer rights remain unaffected.
