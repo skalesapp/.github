@@ -1,110 +1,43 @@
-Business Source License 1.1
-License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
-"Business Source License" is a trademark of MariaDB Corporation Ab.
------------------------------------------------------------------------------
-Parameters
+Skales End User Licence Agreement
 
-Licensor:             Mario Simic
-Licensed Work:        Skales
-                      The Licensed Work is (c) 2026 Mario Simic.
-Additional Use Grant: You may copy, modify, create derivative works,
-                      redistribute, and make non-production use of the
-                      Licensed Work for personal use, learning, and
-                      non-commercial internal testing.
+Version 1.0, 14 September 2026
+Licensor: Mario Simic, Vienna, Austria ("Skales", "we")
+Software: Skales Desktop, Skales Mobile, Skales Code, Skales Relay client components and every update we provide (the "Software")
 
-                      You may NOT use the Licensed Work to provide a
-                      commercial SaaS (Software-as-a-Service), managed
-                      hosting, or any competing commercial product to
-                      third parties without prior written consent from
-                      the Licensor.
-Change Date:          2030-04-19
-Change License:       Apache License, Version 2.0
------------------------------------------------------------------------------
-IN PLAIN TERMS:
+1. What this is
+The Software is proprietary. It is licensed, not sold. It is not open source, it is not source-available, and it will not become either. No source code is provided or promised under this agreement.
 
-  Free for personal use, learning, and non-commercial experimentation.
-  You may NOT host it as a SaaS, sell it, or build a competing product
-  without written permission from the author (Mario Simic).
+2. What you may do
+2.1 Personal and educational use. If you are a private individual, a student, a teacher, or a non-commercial educational institution, you may install and use the Software free of charge on devices you control.
+2.2 Evaluation. Any organisation may install the Software to evaluate it for thirty (30) days.
+2.3 Commercial use. Any use by or for a company, a business, a public body, or in exchange for money or other consideration requires a written commercial licence from Skales. Contact: request@skales.app.
 
-  On April 19, 2030, this version becomes Apache 2.0 licensed.
-  Future versions (v10.0.4 and later) are released under their own BSL
-  terms with their own Change Dates.
------------------------------------------------------------------------------
-Terms
+3. What you may not do
+3.1 You may not offer the Software, or any service built on it, to third parties as a hosted, managed, or software-as-a-service offering.
+3.2 You may not rebrand, white-label, resell, sublicense, rent, lease, or redistribute the Software, in whole or in part.
+3.3 You may not reverse engineer, decompile, disassemble, extract, or otherwise attempt to derive the source code, models, prompts, or internal structure of the Software, except to the extent a mandatory law expressly permits it despite this clause.
+3.4 You may not remove, hide, or alter any licence, trademark, attribution, or origin marking in the Software or its packages.
+3.5 You may not use the Software to build a competing product, or use any part of it, including its texts, tool definitions, prompts, and assets, in another product.
 
-The Licensor hereby grants you the right to copy, modify, create
-derivative works, redistribute, and make non-production use of the
-Licensed Work.
+4. Your data and your keys
+The Software runs on your own devices. Provider keys, conversations, files, and memory stay on your devices unless you connect a service yourself. Skales IQ, Skales Relay, and other optional online services have their own terms, shown before you enable them.
 
-The Licensor may make an Additional Use Grant, above, permitting
-limited production use.
+5. Trademarks
+"Skales", the Skales logo, and the names of Skales products are trademarks of Mario Simic. This agreement grants no trademark rights. See TRADEMARK.md.
 
-Effective on the Change Date, or the fourth anniversary of the first
-publicly available distribution of a specific version of the Licensed
-Work under this License, whichever comes first, the Licensor hereby
-grants you rights under the terms of the Change License, and the rights
-granted in the paragraph above terminate.
+6. Third-party components
+The Software contains open-source components under their own licences, listed in THIRD-PARTY-NOTICES.md. Those licences apply to those components only and do not extend to the Software as a whole.
 
-If your use of the Licensed Work does not comply with the requirements
-currently in effect as described in this License, you must purchase a
-commercial license from the Licensor, its affiliated entities, or
-authorized resellers, or you must refrain from using the Licensed Work.
+7. Updates, term, and termination
+We may provide updates under this agreement. The licence lasts until terminated. It terminates automatically if you breach it; on termination you must stop using the Software and delete all copies. Sections 3, 5, 8, and 9 survive termination.
 
-All copies of the original and modified Licensed Work, and derivative
-works of the Licensed Work, are subject to this License. This License
-applies separately for each version of the Licensed Work and the Change
-Date may vary for each version of the Licensed Work released by
-Licensor.
+8. Warranty and liability
+The Software is provided "as is". To the maximum extent permitted by law, Skales disclaims all warranties and is not liable for any indirect, incidental, or consequential damages, loss of data, or loss of profit arising from the use of the Software. Mandatory consumer rights remain unaffected.
 
-You must conspicuously display this License on each original or modified
-copy of the Licensed Work. If you receive the Licensed Work in original
-or modified form from a third party, the terms and conditions set forth
-in this License apply to your use of that work.
+9. Governing law
+This agreement is governed by the laws of Austria. Place of jurisdiction is Vienna, without prejudice to mandatory consumer protection rules.
 
-Any use of the Licensed Work in violation of this License will
-automatically terminate your rights under this License for the current
-and all other versions of the Licensed Work.
+10. Entire agreement
+This agreement is the complete licence for the Software. Earlier licence texts shipped with previous versions no longer apply to this or later versions.
 
-This License does not grant you any right in any trademark or logo of
-Licensor or its affiliates (provided that you may use a trademark or
-logo of Licensor as expressly required by this License).
-
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED
-ON AN "AS IS" BASIS. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND
-CONDITIONS, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION)
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-NON-INFRINGEMENT, AND TITLE.
-
-MariaDB hereby grants you permission to use this License's text to
-license your works, and to refer to it using the trademark "Business
-Source License", as long as you comply with the Covenants of Licensor
-below.
------------------------------------------------------------------------------
-Covenants of Licensor
-
-In consideration of the right to use this License's text and the
-"Business Source License" name and trademark, Licensor covenants to
-MariaDB, and to all other recipients of the Licensed Work to be provided
-by Licensor:
-
-1. To specify as the Change License the GPL Version 2.0 or any later
-   version, or a license that is compatible with GPL Version 2.0 or a
-   later version, where "compatible" means that software provided under
-   the Change License can be included in a program with software provided
-   under GPL Version 2.0 or a later version. Licensor may specify
-   additional Change Licenses without limitation.
-
-2. To either: (a) specify an additional grant of rights to use that does
-   not impose any additional restriction on the right granted in this
-   License, as the Additional Use Grant; or (b) insert the text
-   "None".
-
-3. To specify a Change Date.
-
-4. Not to modify this License in any other way.
------------------------------------------------------------------------------
-Notice
-
-The Business Source License (this document, or the "License") is not an
-Open Source license. However, the Licensed Work will eventually be made
-available under an Open Source License, as stated in this License.
+Copyright (c) 2026 Mario Simic. All rights reserved.

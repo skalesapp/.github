@@ -13,18 +13,14 @@ of a sentence (GitHub renders every break hard).
 ```markdown
 ---
 
-**Licence and brand.** Skales is source-available under the
-[Business Source License 1.1](https://github.com/skalesapp/skales/blob/main/LICENSE):
-personal, educational and internal business use is free. SaaS, hosting,
-bundling or resale need a
-[commercial licence](https://github.com/skalesapp/skales/blob/main/COMMERCIAL-LICENSE.md).
-The name Skales, the logo and the icon are not covered by that licence. You may
-redistribute these unmodified original files; a modified or rebranded build must
-not carry the name or the logo. See
+**Licence and brand.** Skales is proprietary software under the
+[Skales End User Licence Agreement](https://github.com/skalesapp/skales/blob/main/LICENSE).
+It is not open source and it is not source-available. Private individuals, students, teachers and non-commercial educational institutions use it free of charge. Companies, businesses and public bodies need a written commercial licence, and SaaS, hosting, bundling, white-labelling and resale need a written contract: request@skales.app.
+
+The name Skales, the logo and the icon are trademarks and are not licensed with the software. You may refer to Skales by name to describe, review or link to the unmodified original software; a modified or rebranded copy must not carry the name or the logo. See
 [TRADEMARK.md](https://github.com/skalesapp/skales/blob/main/TRADEMARK.md).
 
-Verify what you downloaded against the SHA-256 list above. Signed builds
-identify themselves; a build that is not in our release record is not ours.
+Verify what you downloaded against the SHA-256 list above. Signed builds identify themselves; a build that is not in our release record is not ours.
 ```
 
 ---
@@ -34,7 +30,7 @@ identify themselves; a build that is not in our release record is not ours.
 | Place | What it needs |
 |---|---|
 | Release body in `skalesapp/skales` | the block above, after the SHA-256 list |
-| `skalesapp/skales` repo root | `LICENSE`, `COMMERCIAL-LICENSE.md`, `TRADEMARK.md` |
+| `skalesapp/skales` repo root | `LICENSE`, `TRADEMARK.md` |
 | `skalesapp/.github` profile page | the licence paragraph with both links |
 | The downloaded package itself | `LICENSE` and `TRADEMARK.md` next to `THIRD-PARTY-NOTICES.md` in `Resources/` |
-| skales.app download page | one line with both links |
+| skales.app download page | one line with both links, plus the `/licence` page |

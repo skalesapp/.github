@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://github.com/skalesapp/skales/releases/latest"><img src="https://img.shields.io/github/v/release/skalesapp/skales?style=for-the-badge&labelColor=0D1117&color=10b981" alt="Latest Release"></a>
-  <a href="https://github.com/skalesapp/skales/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BSL_1.1-0D1117?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/skalesapp/skales/blob/main/LICENSE"><img src="https://img.shields.io/badge/Licence-Proprietary-0D1117?style=for-the-badge" alt="Licence"></a>
   <a href="https://github.com/skalesapp/skales/stargazers"><img src="https://img.shields.io/github/stars/skalesapp/skales?style=for-the-badge&labelColor=0D1117&color=10b981" alt="Stars"></a>
 </p>
 
@@ -53,10 +53,10 @@ surface, power-user depth underneath.
 
 ## 📦 Projects
 
-| Repo | What | License |
+| Repo | What | Licence |
 |------|------|---------|
-| [**skales**](https://github.com/skalesapp/skales) | Desktop harness (Windows, macOS, Linux) | BSL 1.1 |
-| [**skales mobile**](https://play.google.com/store/apps/details?id=app.skales.mobile) | [Android](https://play.google.com/store/apps/details?id=app.skales.mobile) + [iOS](https://apps.apple.com/us/app/skales/id6763328966) — both live | BSL 1.1 |
+| [**skales**](https://github.com/skalesapp/skales) | Desktop harness (Windows, macOS, Linux) | Proprietary |
+| [**skales mobile**](https://play.google.com/store/apps/details?id=app.skales.mobile) | [Android](https://play.google.com/store/apps/details?id=app.skales.mobile) + [iOS](https://apps.apple.com/us/app/skales/id6763328966) — both live | Proprietary |
 | [**devkit**](https://github.com/skalesapp/devkit) | CLI, developer docs, examples | MIT |
 | [**wordpress**](https://github.com/skalesapp/wordpress) | WordPress Connector Plugin | MIT |
 | [**plugins**](https://github.com/skalesapp/plugins) | Community plugin registry | MIT |
@@ -130,19 +130,21 @@ Iris Orbit becomes its own product later: [irisorbit.com](https://irisorbit.com)
 
 ---
 
-## 📜 License and brand
+## 📜 Licence and brand
 
-**BSL 1.1** source-available today, **Apache 2.0** on 2030-04-19.
+Skales is **proprietary software**. It is licensed, not sold. It is not open
+source, it is not source-available, and it will not become either.
 
-Personal, educational, and internal business use = **free forever**.
+Private individuals, students, teachers and non-commercial educational
+institutions use Skales **free of charge**.
 
-SaaS, hosting, bundling, or resale = [commercial license](https://github.com/skalesapp/skales/blob/main/COMMERCIAL-LICENSE.md).
+Companies, businesses and public bodies need a written commercial licence;
+SaaS, hosting, bundling, white-labelling and resale need a written contract.
+Ask at [request@skales.app](mailto:request@skales.app).
 
-A source license is not a brand license. The name **Skales**, the logo and the
-icon stay with their author: you may pass on the **unmodified original builds**
-as published, but a modified or rebranded build must not carry the name or the
-logo, and a hosted offering needs written permission first. The terms are short
-and say exactly what needs asking:
+The name **Skales**, the logo and the icon stay with their author. You may refer
+to Skales by name to describe, review or link to the unmodified original
+software; a modified or rebranded copy must not carry the name or the logo.
 
 📄 [LICENSE](https://github.com/skalesapp/skales/blob/main/LICENSE) · ™ [TRADEMARK.md](https://github.com/skalesapp/skales/blob/main/TRADEMARK.md) · ✍️ [request@skales.app](mailto:request@skales.app)
 
