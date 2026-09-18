@@ -21,7 +21,7 @@
   <a href="https://github.com/skalesapp/skales/stargazers"><img src="https://img.shields.io/github/stars/skalesapp/skales?style=for-the-badge&labelColor=0D1117&color=10b981" alt="Stars"></a>
 </p>
 
-Desktop **12.8.4** · Mobile **2.8.4**
+Desktop: [latest release](https://github.com/skalesapp/skales/releases/latest) · Mobile: [Android](https://play.google.com/store/apps/details?id=app.skales.mobile) and [iOS](https://apps.apple.com/us/app/skales/id6763328966)
 
 </div>
 
