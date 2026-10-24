@@ -2,7 +2,7 @@
 
 # 🦎 Skales
 
-**A local-first AI harness for Windows, macOS, Linux, Android & iOS**
+**The AI agent that does the work, not just the talking. Windows, macOS, Linux, Android & iOS**
 
 ![Team Skales](https://skales.app/team_s.png)
 
@@ -29,7 +29,8 @@ Desktop: [latest release](https://github.com/skalesapp/skales/releases/latest) �
 
 ## 🧭 What Skales is
 
-Skales is a **harness**, not a wrapper. A wrapper puts a chat window in front of
+Skales is an **AI agent** that plans, uses real tools and finishes multi-step work
+on the AI you choose. Under it sits a **harness**, not a wrapper. A wrapper puts a chat window in front of
 someone else's API. A harness is the part that makes a model actually do things:
 the agent loop, the tool layer, the context and memory handling, the provider
 abstraction, and the per-model tuning that keeps tool calls landing across models
@@ -41,6 +42,8 @@ sampling and tool naming per model family. The chat window is the surface. The
 harness is the product.
 
 Local-first by default. Your data stays in `~/.skales-data` on your machine.
+The model is as local as your choice: with a cloud provider, what you send goes
+to that provider.
 Bring your own keys, or run with no key at all. No Docker. No terminal. No signup.
 
 Built from **6 to 60+** — usable by a kid, approved by a grandmother. Mainstream
